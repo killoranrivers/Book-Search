@@ -1,3 +1,20 @@
+# React Book Search
+
+## How It Works
+This app lets the user search the Google Books API and then save the books they want to read. Saved books and their info are stored in a database so the user can view them later.
+
+## Try It Out
+This app is hosted on Heroku [HERE] (https://limitless-sands-27487.herokuapp.com/)
+
+## Technologies Used
+* Create-React-App (Node package)
+* Axios (Node package)
+* React
+* Express
+* MongoDB
+* Mongoose
+
+
 # Create React Express App
 
 ## About This Boilerplate
